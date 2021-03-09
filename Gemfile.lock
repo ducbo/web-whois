@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/ducbo/whois
+  revision: 283fee0e89d78021f72a3be3c50def2dd92378b2
+  specs:
+    whois (5.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,7 +15,7 @@ GEM
     rack-protection (2.1.0)
       rack
     rack-ssl-enforcer (0.2.9)
-    ruby2_keywords (0.0.2)
+    ruby2_keywords (0.0.4)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
     sinatra (2.1.0)
@@ -29,10 +35,9 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
-    whois (5.0.2)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   rack-ssl-enforcer (~> 0.2.9)
@@ -40,10 +45,10 @@ DEPENDENCIES
   sinatra (~> 2.1)
   slim (~> 4.1)
   thin (~> 1.8)
-  whois (~> 5.0)
+  whois!
 
 RUBY VERSION
-   ruby 2.7.1p83
+   ruby 3.0.0p0
 
 BUNDLED WITH
-   2.1.4
+   2.2.13
