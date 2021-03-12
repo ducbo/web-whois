@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '3.0.0'
+ruby '2.7.1'
 
 gem 'rack-ssl-enforcer', '~> 0.2.9'
 gem 'simpleidn'
