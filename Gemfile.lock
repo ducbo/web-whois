@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ducbo/whois
-  revision: 283fee0e89d78021f72a3be3c50def2dd92378b2
+  revision: 42a069d4d9a67a7986372877fe56be0ad1d1c196
   specs:
     whois (5.0.2)
 
