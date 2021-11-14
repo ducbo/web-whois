@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/ducbo/whois.git
+  revision: f1bf167c8d621e54d882cba9850a7d49ad9761a0
+  specs:
+    whois (5.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -29,7 +35,6 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
-    whois (5.0.2)
 
 PLATFORMS
   ruby
@@ -40,7 +45,7 @@ DEPENDENCIES
   sinatra (~> 2.1)
   slim (~> 4.1)
   thin (~> 1.8)
-  whois (~> 5.0)
+  whois!
 
 RUBY VERSION
    ruby 2.7.1p83
