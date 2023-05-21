@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/ducbo/whois.git
+  remote: https://github.com/ducbo/whois.git
   revision: f1bf167c8d621e54d882cba9850a7d49ad9761a0
   specs:
     whois (5.0.2)
